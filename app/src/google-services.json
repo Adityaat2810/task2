@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526969430390",
+    "project_id": "taskgenius-73da5",
+    "storage_bucket": "taskgenius-73da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526969430390:android:dad8b16c2d72837d6a9a57",
+        "android_client_info": {
+          "package_name": "com.example.taskgenius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526969430390-v995ksvo20orb1r4li5tdac6pcrcovkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkFTIzgOfxlWuCV7q_M3fp7Nl0kb5EKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526969430390-v995ksvo20orb1r4li5tdac6pcrcovkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
