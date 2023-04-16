@@ -10,6 +10,12 @@ be recruiters they can see the
 projects and also provide
 various opportunities to
 students.
+
+
+
+
+
+
 #proposed solution
 ‹#3›
 We will (as a team) create an android application where students from different universities can sign up or
